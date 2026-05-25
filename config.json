@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "uploaderealculate",
+        "uuid": 1102361,
+        "checksum": "ovft2j"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
